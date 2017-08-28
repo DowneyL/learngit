@@ -2,4 +2,5 @@
 
 phpinfo();
  
+print_r("222");
 ?>
